@@ -16,6 +16,10 @@
 | Theme | Design direction | Availability |
 | :--- | :--- | :--- |
 | [Windows 95 Ultra](themes/windows-95-ultra/) | Retro desktop meets modern Android | In development |
+| [Jungle](themes/jungle/) | Photoreal rainforest with emerald and lime accents | Downloadable kit |
+| [Pop Art](themes/pop-art/) | Halftones, cobalt ink, and lemon yellow | Downloadable kit |
+| [Designer Luxury](themes/designer-luxury/) | Obsidian silk and champagne accents | Downloadable kit |
+| [Midnight Terminal](themes/midnight-terminal/) | Phosphor mint and deep navy, inspired by TermChat | Downloadable kit |
 
 ## Designed for Android
 
@@ -23,7 +27,7 @@ Each collection can include wallpapers, icon artwork, Samsung Theme Park palette
 
 ## Downloads
 
-Installable builds will appear under [Releases](https://github.com/ether4o4/android-themes-/releases) when available. Source prototypes are not verified releases.
+Download wallpapers, icons, and Theme Park setup guides directly from the theme pages above. Installable builds will appear under [Releases](https://github.com/ether4o4/android-themes-/releases) when available. Source prototypes are not verified releases.
 
 ## Project layout
 

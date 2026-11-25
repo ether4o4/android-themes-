@@ -1,0 +1,9 @@
+{
+  "background": "#10231D",
+  "surface": "#203A30",
+  "controlInactive": "#355748",
+  "controlActive": "#D8FF9D",
+  "onActive": "#17270E",
+  "text": "#F1FAEE",
+  "textSecondary": "#BFD5C6"
+}
